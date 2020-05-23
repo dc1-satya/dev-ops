@@ -1,0 +1,8 @@
+Firewalls play an important role to control Network Traffic.
+
+The Linux kernel includes the Netfilter subsystem which is used to control network incoming and outgoing traffic.
+
+Linux firewalls utilize Netfilter. The administrator tells Netfilter how to treat data packets by configuring rules in iptables, a configuration file.
+
+In Ubuntu, we use ufw as a configuration tool for iptables.
+https://www.w3resource.com/linux-system-administration/firewall.php
